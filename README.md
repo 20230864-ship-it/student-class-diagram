@@ -1,6 +1,8 @@
 # student-class-diagram
 Student Name: Muhammed Yuşa okuyucu
+
 Student ID:20230864
+
 Departmant: Sofware engineering
 # Student Class — UML to Python
 
