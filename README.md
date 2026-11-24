@@ -30,3 +30,4 @@ python student.py
 ```
 
 The demo enrolls a student in two courses, updates the GPA, and shows the profile before and after withdrawing from one course.
+![Student UML class diagram](./student-uml.png)
