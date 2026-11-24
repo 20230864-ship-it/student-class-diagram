@@ -1,5 +1,7 @@
 # student-class-diagram
-20230864
+Student Name: Muhammed Yuşa okuyucu
+Student ID:20230864
+Departmant: Sofware engineering
 # Student Class — UML to Python
 
 This software engineering assignment maps a Student UML class diagram to Python. The `Student` class supports course enrollment, course withdrawal, GPA updates, and a student profile summary.
