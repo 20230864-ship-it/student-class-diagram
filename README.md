@@ -6,7 +6,7 @@ This software engineering assignment maps a Student UML class diagram to Python.
 
 ## UML Class Diagram
 
-![Student UML class diagram](student-uml.png)
+
 
 ## UML to Python Mapping
 
@@ -30,4 +30,4 @@ python student.py
 ```
 
 The demo enrolls a student in two courses, updates the GPA, and shows the profile before and after withdrawing from one course.
-![Student UML class diagram](./student-uml.png)
+
